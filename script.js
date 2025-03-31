@@ -8,7 +8,7 @@ var imgHeight = 250; // height of images (unit: px)
 document.getElementById('music-container').remove();
 
 // Add new background music
-var audio = new Audio('Yeh Haseen Vadiyan (Rewind Version).mp4'); // Replace with correct path if needed
+var audio = new Audio('Yeh Haseen Vadiyan (Rewind Version).mp4.mp4'); // Replace with correct path if needed
 audio.volume = 0.1; // Start with low volume
 audio.loop = true;
 
